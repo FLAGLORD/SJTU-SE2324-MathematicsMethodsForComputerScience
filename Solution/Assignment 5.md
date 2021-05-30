@@ -85,7 +85,6 @@ mean = 2, variance = 1   :[ True]
 
 - 12 is the largest value of $N$ where  $A_V$ is positive definite, and the condition number of that $V$ is 883478686.1836076​
 - 20 is the largest value of $N$ where  $A_F$ is positive definite, and the condition number of that $F$ is 32732760.078300484
-- connection
 
 ### 3_4
 

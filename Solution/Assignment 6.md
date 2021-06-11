@@ -76,6 +76,13 @@ def exe_2_3():
 
 ### 2.4
 
+```
+The 3 eigenvalues with the smallest magnitude are
+[ -9.86879269 -39.46543143 -88.76070794]
+```
+
+![](D:\Desktop\课程\专业课\SJTU-SE2324-计算机科学数学基础\Solution\Assignment6_2_4.png)
+
 ## 3 SVD Decomposition
 
 ### 3.1
